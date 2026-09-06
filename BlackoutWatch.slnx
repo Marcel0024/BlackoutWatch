@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitea/workflows/deploy.yml" />
+  </Folder>
+  <Project Path="BlackoutWatch.csproj" />
+  <Project Path="BlackoutWatch.Tests/BlackoutWatch.Tests.csproj" />
+</Solution>

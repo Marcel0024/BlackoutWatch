@@ -1,0 +1,9 @@
+.git
+.github
+.gitea
+.vs
+**/bin
+**/obj
+**/TestResults
+*.db
+*.user
